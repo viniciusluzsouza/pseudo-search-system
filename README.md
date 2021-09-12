@@ -14,7 +14,7 @@ Para executar o sistema, é necessário o Python na versão 3, que deve ser exec
 A seguir, basta inserir a palavra de busca. A figura a seguir exibe um exemplo de execução.
 
 <p align="center">
-  <img width="500" height="400" src="./running_example.png">
+  <img src="./running_example.png">
 </p>
 
 Para parar o sistema, execute CTRL + C.
